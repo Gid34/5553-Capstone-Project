@@ -45,7 +45,7 @@ Yasveer Singh
 -Develop a processing page(ProcessignPage.html)
 -Added in a additional web feature that shows up when process is hit
 
-Click on this for the [comprehensive installation guide](https://github.com/sawetr/AI-generated-image-and-document-metadata_UWA/blob/Installation-Branch/installation.md) 
+Click on this for the [comprehensive installation guide](https://github.com/Gid34/5553-Individual-Repository/blob/main/installation.md) 
 
 # Project Structure & File Purpose
 AI-generated-image-and-document-metadata_UWA/
