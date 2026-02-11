@@ -1,11 +1,11 @@
 # AI-generated-image-and-document-metadata_UWA
 
 Member:
-1. Sawetr Suchit-rattanant
-2. Kenrick Lim
-3. Arzoo Arzoo
-4. Yujie YANG
-5. Gideon Tan
+1. Gideon Tan
+2. Sawetr Suchit-rattanant
+3. Kenrick Lim
+4. Arzoo Arzoo
+5. Yujie YANG
 6. Yashveer Singh
 
 Contribution 
