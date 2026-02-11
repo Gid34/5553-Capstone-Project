@@ -1,4 +1,4 @@
-# AI-generated-image-and-document-metadata_UWA
+# UWA Library Metadata Generation App
 
 Member:
 1. Gideon Tan
